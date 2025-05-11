@@ -17,7 +17,7 @@ This project implements a face detection and recognition system using machine le
 ## Setup Instructions
 
 1. *Clone the Repository*
-   git clone https://github.com/Akshaykprj/Face-Detection-and-Recognition.git
+   git clone https://github.com/AkshayKprj/Face-Detection-and-Recognition.git
    cd Face-Detection-and-Recognition
 2. Install Dependencies
 Make sure you have Python 3 installed. Then install OpenCV:
